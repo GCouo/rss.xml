@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Lin Miau's Facebook Public Posts</title>
+    <link>https://www.facebook.com/lin.miau.5</link>
+    <description>Lin Miau's Public Facebook Posts</description>
+    <language>zh-tw</language>
+    <pubDate>Tue, 10 Dec 2024 10:00:00 GMT</pubDate>
+    
+    <!-- Example Post 1 -->
+    <item>
+      <title>First Post Title</title>
+      <link>https://www.facebook.com/lin.miau.5/posts/123456789</link>
+      <description>This is the content of the first post. It can include text, images, or links.</description>
+      <pubDate>Mon, 9 Dec 2024 14:30:00 GMT</pubDate>
+    </item>
+    
+    <!-- Example Post 2 -->
+    <item>
+      <title>Second Post Title</title>
+      <link>https://www.facebook.com/lin.miau.5/posts/987654321</link>
+      <description>This is the content of the second post. Add more details here.</description>
+      <pubDate>Tue, 10 Dec 2024 09:00:00 GMT</pubDate>
+    </item>
+    
+  </channel>
+</rss>
